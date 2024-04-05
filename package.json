@@ -110,7 +110,7 @@
     "@types/node-fetch": "latest",
     "@types/ws": "latest",
     "@vertx/core": "latest",
-    "eslint": "latest",
+    "eslint": "9.0.0",
     "node-loader": "latest",
     "parcel": "latest",
     "parcel-resolver-ignore": "latest",
