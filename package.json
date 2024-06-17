@@ -95,7 +95,7 @@
     "simple-peer": "latest",
     "socks-proxy-agent": "latest",
     "spdy": "latest",
-    "ws": "latest",
+    "ws": "8.17.1",
     "@babel/core": "latest",
     "@mapbox/node-pre-gyp": "latest",
     "@parcel/packager-raw-url": "latest",
