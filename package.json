@@ -97,7 +97,7 @@
     "spdy": "latest",
     "ws": "latest",
     "@babel/core": "latest",
-    "@mapbox/node-pre-gyp": "latest",
+    "@mapbox/node-pre-gyp": "2.0.0",
     "@parcel/packager-raw-url": "latest",
     "@parcel/transformer-webmanifest": "latest",
     "@types/body-parser": "latest",
